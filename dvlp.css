@@ -1,10 +1,18 @@
+head{
+	background-color: rgba(157, 221, 255, 0.8);
+}
+body{
+	background-color: rgba(157, 221, 255, 0.8);
+}
+
+
+
 *{
 	background-color: rgba(157, 221, 255, 0.8);
 	margin: 0px;
 }
 
 html{
-	*{
 	background-color: rgba(157, 221, 255, 0.8);
 }
 
